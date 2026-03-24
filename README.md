@@ -1,2 +1,4 @@
 # Natural-Language-Processing
-This repository contains all the projects and tactics related to NLP
+This repository contains all the projects, notes, practice examples related to NLP
+
+- Regex folder
